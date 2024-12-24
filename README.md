@@ -29,3 +29,12 @@ This is a **React-based Currency Exchanger application** that allows users to co
 1. Clone the repository:
    ```bash
    git clone https://github.com/prakash-ydv/currency-converter
+2. Navigate to the folder
+   ```bash
+   cd currency-exchanger
+3. Install node modules
+   ```bash
+   npm install
+4.Run the application
+```bash
+npm start
