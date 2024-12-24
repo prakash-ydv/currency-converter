@@ -36,5 +36,5 @@ This is a **React-based Currency Exchanger application** that allows users to co
    ```bash
    npm install
 4.Run the application
-```bash
-npm start
+   ```bash
+   npm start
